@@ -1,0 +1,17 @@
+D:\QuizApplication\QuizApplication.Common\bin\Debug\net5.0\QuizApplication.Common.deps.json
+D:\QuizApplication\QuizApplication.Common\bin\Debug\net5.0\QuizApplication.Common.dll
+D:\QuizApplication\QuizApplication.Common\bin\Debug\net5.0\ref\QuizApplication.Common.dll
+D:\QuizApplication\QuizApplication.Common\bin\Debug\net5.0\QuizApplication.Common.pdb
+D:\QuizApplication\QuizApplication.Common\bin\Debug\net5.0\QuizApplication.Data.dll
+D:\QuizApplication\QuizApplication.Common\bin\Debug\net5.0\QuizApplication.Models.dll
+D:\QuizApplication\QuizApplication.Common\bin\Debug\net5.0\QuizApplication.Data.pdb
+D:\QuizApplication\QuizApplication.Common\bin\Debug\net5.0\QuizApplication.Models.pdb
+D:\QuizApplication\QuizApplication.Common\obj\Debug\net5.0\QuizApplication.Common.csproj.AssemblyReference.cache
+D:\QuizApplication\QuizApplication.Common\obj\Debug\net5.0\QuizApplication.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\QuizApplication\QuizApplication.Common\obj\Debug\net5.0\QuizApplication.Common.AssemblyInfoInputs.cache
+D:\QuizApplication\QuizApplication.Common\obj\Debug\net5.0\QuizApplication.Common.AssemblyInfo.cs
+D:\QuizApplication\QuizApplication.Common\obj\Debug\net5.0\QuizApplication.Common.csproj.CoreCompileInputs.cache
+D:\QuizApplication\QuizApplication.Common\obj\Debug\net5.0\QuizApplication.Common.csproj.CopyComplete
+D:\QuizApplication\QuizApplication.Common\obj\Debug\net5.0\QuizApplication.Common.dll
+D:\QuizApplication\QuizApplication.Common\obj\Debug\net5.0\ref\QuizApplication.Common.dll
+D:\QuizApplication\QuizApplication.Common\obj\Debug\net5.0\QuizApplication.Common.pdb

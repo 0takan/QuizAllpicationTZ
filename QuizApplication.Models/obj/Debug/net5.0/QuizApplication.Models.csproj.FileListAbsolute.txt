@@ -1,0 +1,11 @@
+D:\QuizApplication\QuizApplication.Models\bin\Debug\net5.0\QuizApplication.Models.deps.json
+D:\QuizApplication\QuizApplication.Models\bin\Debug\net5.0\QuizApplication.Models.dll
+D:\QuizApplication\QuizApplication.Models\bin\Debug\net5.0\ref\QuizApplication.Models.dll
+D:\QuizApplication\QuizApplication.Models\bin\Debug\net5.0\QuizApplication.Models.pdb
+D:\QuizApplication\QuizApplication.Models\obj\Debug\net5.0\QuizApplication.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\QuizApplication\QuizApplication.Models\obj\Debug\net5.0\QuizApplication.Models.AssemblyInfoInputs.cache
+D:\QuizApplication\QuizApplication.Models\obj\Debug\net5.0\QuizApplication.Models.AssemblyInfo.cs
+D:\QuizApplication\QuizApplication.Models\obj\Debug\net5.0\QuizApplication.Models.csproj.CoreCompileInputs.cache
+D:\QuizApplication\QuizApplication.Models\obj\Debug\net5.0\QuizApplication.Models.dll
+D:\QuizApplication\QuizApplication.Models\obj\Debug\net5.0\ref\QuizApplication.Models.dll
+D:\QuizApplication\QuizApplication.Models\obj\Debug\net5.0\QuizApplication.Models.pdb
