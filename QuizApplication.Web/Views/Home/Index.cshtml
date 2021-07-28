@@ -13,7 +13,8 @@
 <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 <script type="text/javascript">
     $(document).ready(function () {
-        $(".btnalertMessage").click(function () {
+        $(".btnalertMessage").click(function (element) {
+            console.log(element);
             Swal.fire({
                 title: 'Are you ready to start ?',
                 input: 'checkbox',
@@ -22,7 +23,7 @@
                 if (result.isConfirmed) {
                     if (result.value) {
                         Swal.fire({ icon: 'success', text: 'You agree with rules' });
-
+                        location.href = '/Quiz/StartQuiz/' + element.currentTarget.dataset.quizid
                     } else {
                         Swal.fire({ icon: 'error', text: "Permission denied" });
                     }
@@ -44,8 +45,8 @@
         <a class="nav-link text-dark" asp-area="" asp-controller="Quiz" asp-action="CreateQuiz" title="Create Quiz"><i class="icon fas fa-plus-square fa-2x" style="color: white"></i></a>
     </div>
 </div> }
-            else
-            {
+else
+{
 @foreach (var quiz in Model)
 {
 <div class="col-md-3 mx-auto card-holder">
@@ -59,16 +60,16 @@
                 @if (@quiz.QuizQuestions.Count == 0)
                 {
 <p>No questions yet</p> }
-                    else if (@quiz.QuizQuestions.Count == 1)
-                    {
+else if (@quiz.QuizQuestions.Count == 1)
+{
 <p>@quiz.QuizQuestions.Count question</p> }
-                    else
-                    {
+else
+{
 <p>@quiz.QuizQuestions.Count questions</p>}
             </div>
             <div class="flip-card-back">
                 <div style="margin-top: 85px;">
-                    <a style="padding: 10px;" asp-action="StartQuiz" asp-controller="Quiz" asp-route-id="@quiz.Id" title="Start"><i class="icon fas fa-play fa-2x btnalertMessage" style="color: white"></i></a>
+                    <a style="padding: 10px;" title="Start"><i class="icon fas fa-play fa-2x btnalertMessage" style="color: white" data-quizid="@quiz.Id"></i></a>
                     @if (User.IsInRole("Admin"))
                     {
 <a style="padding: 10px;" asp-action="DeleteQuiz" asp-controller="Quiz" asp-route-id="@quiz.Id" title="Delete"><i class="icon fas fa-trash fa-2x" style="color: white"></i></a>}

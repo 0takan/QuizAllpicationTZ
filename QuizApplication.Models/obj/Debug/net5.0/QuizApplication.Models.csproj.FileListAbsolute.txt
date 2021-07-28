@@ -9,3 +9,4 @@ D:\QuizApplication\QuizApplication.Models\obj\Debug\net5.0\QuizApplication.Model
 D:\QuizApplication\QuizApplication.Models\obj\Debug\net5.0\QuizApplication.Models.dll
 D:\QuizApplication\QuizApplication.Models\obj\Debug\net5.0\ref\QuizApplication.Models.dll
 D:\QuizApplication\QuizApplication.Models\obj\Debug\net5.0\QuizApplication.Models.pdb
+D:\QuizApplication\QuizApplication.Models\obj\Debug\net5.0\QuizApplication.Models.csproj.AssemblyReference.cache

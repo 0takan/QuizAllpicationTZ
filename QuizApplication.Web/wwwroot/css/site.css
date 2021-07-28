@@ -36,7 +36,9 @@ body {
     /* Margin bottom by footer height */
     margin-bottom: 60px;
 }
-
+header{
+    background:red;
+}
 .footer {
     position: absolute;
     bottom: 0;
@@ -76,12 +78,14 @@ body {
 
     .customNav a {
         display: inline-block;
-        padding: 10px;
+        padding: 5px;
     }
 
 .icon {
     transition: transform .2s
 }
+
+
 
 .icon:hover {
     text-shadow: 0 0 5px #000;
