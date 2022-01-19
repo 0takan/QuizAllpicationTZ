@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0cfd5367-7082-4ad0-96f8-b82e6474c587": {
+      "ProjectGuid": "0cfd5367-7082-4ad0-96f8-b82e6474c587",
+      "DisplayName": "QuizApplication.Models",
+      "ColorIndex": 0
+    },
+    "b4c735d7-2f49-412e-a0e9-c5f894de0d8f": {
+      "ProjectGuid": "b4c735d7-2f49-412e-a0e9-c5f894de0d8f",
+      "DisplayName": "QuizApplication.Data",
+      "ColorIndex": 1
+    },
+    "62f4b362-24d1-4844-948d-5047d4b6bd79": {
+      "ProjectGuid": "62f4b362-24d1-4844-948d-5047d4b6bd79",
+      "DisplayName": "QuizApplication.Web",
+      "ColorIndex": 2
+    },
+    "131697d4-eda2-4ae4-989b-a1c82dc4fda7": {
+      "ProjectGuid": "131697d4-eda2-4ae4-989b-a1c82dc4fda7",
+      "DisplayName": "QuizApplication.Common",
+      "ColorIndex": 3
+    },
+    "6c3401ed-32bc-4ecd-bb20-ad3dfa6f011b": {
+      "ProjectGuid": "6c3401ed-32bc-4ecd-bb20-ad3dfa6f011b",
+      "DisplayName": "QuizApplication.Services",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}

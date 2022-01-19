@@ -7,7 +7,7 @@ namespace QuizApplication.Services.Interfaces
 {
     public interface IQuizService
     {
-        Task CreateQuiz(Quiz quiz);
+        Task CreateQuiz(Quiz     quiz);
 
         Task DeleteQuiz(int id);
 

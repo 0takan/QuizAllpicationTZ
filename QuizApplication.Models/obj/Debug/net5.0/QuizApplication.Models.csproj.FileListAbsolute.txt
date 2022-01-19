@@ -10,3 +10,15 @@ D:\QuizApplication\QuizApplication.Models\obj\Debug\net5.0\QuizApplication.Model
 D:\QuizApplication\QuizApplication.Models\obj\Debug\net5.0\ref\QuizApplication.Models.dll
 D:\QuizApplication\QuizApplication.Models\obj\Debug\net5.0\QuizApplication.Models.pdb
 D:\QuizApplication\QuizApplication.Models\obj\Debug\net5.0\QuizApplication.Models.csproj.AssemblyReference.cache
+E:\Work\ДОНОР\QuizApplication.Models\bin\Debug\net5.0\QuizApplication.Models.deps.json
+E:\Work\ДОНОР\QuizApplication.Models\bin\Debug\net5.0\QuizApplication.Models.dll
+E:\Work\ДОНОР\QuizApplication.Models\bin\Debug\net5.0\ref\QuizApplication.Models.dll
+E:\Work\ДОНОР\QuizApplication.Models\bin\Debug\net5.0\QuizApplication.Models.pdb
+E:\Work\ДОНОР\QuizApplication.Models\obj\Debug\net5.0\QuizApplication.Models.csproj.AssemblyReference.cache
+E:\Work\ДОНОР\QuizApplication.Models\obj\Debug\net5.0\QuizApplication.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Work\ДОНОР\QuizApplication.Models\obj\Debug\net5.0\QuizApplication.Models.AssemblyInfoInputs.cache
+E:\Work\ДОНОР\QuizApplication.Models\obj\Debug\net5.0\QuizApplication.Models.AssemblyInfo.cs
+E:\Work\ДОНОР\QuizApplication.Models\obj\Debug\net5.0\QuizApplication.Models.csproj.CoreCompileInputs.cache
+E:\Work\ДОНОР\QuizApplication.Models\obj\Debug\net5.0\QuizApplication.Models.dll
+E:\Work\ДОНОР\QuizApplication.Models\obj\Debug\net5.0\ref\QuizApplication.Models.dll
+E:\Work\ДОНОР\QuizApplication.Models\obj\Debug\net5.0\QuizApplication.Models.pdb

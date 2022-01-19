@@ -6631,23 +6631,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\hordi\\.nuget\\packages\\": {},
+    "C:\\Users\\SWwWS\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\QuizApplication\\QuizApplication.Data\\QuizApplication.Data.csproj",
+      "projectUniqueName": "E:\\Work\\ДОНОР\\QuizApplication.Data\\QuizApplication.Data.csproj",
       "projectName": "QuizApplication.Data",
-      "projectPath": "D:\\QuizApplication\\QuizApplication.Data\\QuizApplication.Data.csproj",
-      "packagesPath": "C:\\Users\\hordi\\.nuget\\packages\\",
-      "outputPath": "D:\\QuizApplication\\QuizApplication.Data\\obj\\",
+      "projectPath": "E:\\Work\\ДОНОР\\QuizApplication.Data\\QuizApplication.Data.csproj",
+      "packagesPath": "C:\\Users\\SWwWS\\.nuget\\packages\\",
+      "outputPath": "E:\\Work\\ДОНОР\\QuizApplication.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\hordi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\SWwWS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -6662,8 +6662,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\QuizApplication\\QuizApplication.Models\\QuizApplication.Models.csproj": {
-              "projectPath": "D:\\QuizApplication\\QuizApplication.Models\\QuizApplication.Models.csproj"
+            "E:\\Work\\ДОНОР\\QuizApplication.Models\\QuizApplication.Models.csproj": {
+              "projectPath": "E:\\Work\\ДОНОР\\QuizApplication.Models\\QuizApplication.Models.csproj"
             }
           }
         }
@@ -6712,7 +6712,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

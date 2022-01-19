@@ -9,6 +9,7 @@ namespace QuizApplication.Common.ViewModels
         public int Id { get; set; }
 
         public string Name { get; set; }
+
         public string Description { get; set; }
 
         public Category Category { get; set; }
@@ -16,7 +17,6 @@ namespace QuizApplication.Common.ViewModels
         public string QuizLogoUrl { get; set; }
 
         public ICollection<QuestionViewModel> QuizQuestions { get; set; }
-
 
         public List<AnswersBindingModel> Answers { get; set; }
 
